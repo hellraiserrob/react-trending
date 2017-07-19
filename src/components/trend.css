@@ -1,0 +1,33 @@
+.trend {
+    /* background: #fff; */
+    padding: 20px 20px 20px 60px;
+    position: relative;
+    border-bottom: 1px solid #eee;   
+    margin: 0 0 0 0;
+}
+
+.trend .number {
+
+    position: absolute;
+    top: 20px;
+    left: 0;
+    font-size: 35px;
+    color: #ccc;
+    /* font-weight: 800 */
+    color: #4284f3;
+    
+}
+.trend h2 {
+    margin: 0 0 5px 0;
+    font-size: 20px;
+}
+
+.trend small {
+    color: #999;
+    margin: 0;
+}
+
+.chart {
+    float:right;
+    margin-left: 50px;
+}

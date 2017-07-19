@@ -1,0 +1,21 @@
+.chart {
+    /* background: blanchedalmond; */
+    
+    
+}
+
+.chart path.line {
+    fill: none;
+    stroke: #4284f3;
+    stroke-width: 3px;
+    /* stroke-linecap: round;
+    stroke-linejoin: round; */
+}
+
+.chart path.area {
+    fill: #eee;
+    fill: #d9e6fd;
+     /* fill: none;  */
+    stroke: none;
+    
+}
